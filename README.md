@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <!--- 🤔 I’m looking for help with ... -->
 <!--- ⚡ Fun fact: ... -->
 
-<img align="left" alt="Lavisha's Github Stacks" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&show_icons=true&hide_border=true" />
+<img align="left" alt="Lavisha's Github Stacks" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&hide=issues&count_private=true&show_icons=true&include_all_commits=true" />
 <br />
 <img align="left" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishabhambri&layout=compact" />
 <br />
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=lavishabhambri.lavishabhambri" />
+<img align="left" src="https://komarev.com/ghpvc/?username=lavishabhambri" />
