@@ -14,6 +14,7 @@
 ### About Me 🚀
 🎓 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. </br>
 👨‍💻  I am passionate about Machine Learning, Deep Learning, Open CV & currently, I am exploring Web Development. </br>
+<br />
 
 <!--## Here is what I’m currently working on 
 Here are some ideas to get you started:
@@ -26,8 +27,8 @@ Here are some ideas to get you started:
 <!--- 🤔 I’m looking for help with ... -->
 <!--- ⚡ Fun fact: ... -->
 
-<img align="left" alt="Lavisha's Github Stacks" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&hide=issues&count_private=true&show_icons=true&include_all_commits=true" />
-<br />
+<img align="left" alt="Github Stacks" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&hide=issues&count_private=true&show_icons=true&include_all_commits=true" />
+
 <img align="left" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishabhambri&layout=compact" />
-<br />
+
 <img align="left" src="https://komarev.com/ghpvc/?username=lavishabhambri" />
