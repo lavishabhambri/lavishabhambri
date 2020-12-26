@@ -11,9 +11,14 @@
 </a>  
 <br />
 <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
+
 ### About Me 🚀
-- 🎓 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. </br>
-- 👨‍💻  I am passionate about Machine Learning, Deep Learning, Open CV & currently, I am exploring Web Development. </br>
+
+- 🎓👨‍💻 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. </br>
+
+- 💻  I am passionate about Machine Learning, Deep Learning, Open CV & currently.
+
+- Currently, I am exploring Web Development. 
 <br />
 
 <!--## Here is what I’m currently working on 
