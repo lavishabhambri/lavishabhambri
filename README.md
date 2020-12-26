@@ -10,7 +10,7 @@
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
 <br />
-<img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
+<img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="400" height="200">
 
 ### About Me 🚀
 
