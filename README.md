@@ -10,7 +10,7 @@
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
 <br />
-
+<img src="https://media.giphy.com/media/WTjQg9yMcTI9AUfh7W/giphy.gif" align="right" alt="Logo" width="520" height="390">
 ### About Me 🚀
 🎓 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. </br>
 👨‍💻  I am passionate about Machine Learning, Deep Learning, Open CV & currently, I am exploring Web Development. </br>
