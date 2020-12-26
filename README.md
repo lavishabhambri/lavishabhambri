@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## My Stats 📊
 
-<img align="center" alt="Github Stacks" src="https://github-readme-stats.vercel.app/api username=lavishabhambri&hide=issues&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
 
 <img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishabhambri&layout=compact" />
 
