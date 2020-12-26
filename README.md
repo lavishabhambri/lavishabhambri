@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <!--- 🤔 I’m looking for help with ... -->
 <!--- ⚡ Fun fact: ... -->
 
-<img align="left" alt="Github Stacks" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&hide=issues&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="center" alt="Github Stacks" src="https://github-readme-stats.vercel.app/api?username=lavishabhambri&hide=issues&count_private=true&show_icons=true&include_all_commits=true" />
 
-<img align="left" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishabhambri&layout=compact" />
+<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishabhambri&layout=compact" />
 
-<img align="left" src="https://komarev.com/ghpvc/?username=lavishabhambri" />
+<img align="center" src="https://komarev.com/ghpvc/?username=lavishabhambri" />
