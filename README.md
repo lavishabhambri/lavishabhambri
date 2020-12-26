@@ -10,10 +10,10 @@
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
 <br />
-<img src="https://media.giphy.com/media/WTjQg9yMcTI9AUfh7W/giphy.gif" align="right" alt="Logo" width="520" height="390">
+<img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
 ### About Me 🚀
-🎓 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. </br>
-👨‍💻  I am passionate about Machine Learning, Deep Learning, Open CV & currently, I am exploring Web Development. </br>
+- 🎓 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. </br>
+- 👨‍💻  I am passionate about Machine Learning, Deep Learning, Open CV & currently, I am exploring Web Development. </br>
 <br />
 
 <!--## Here is what I’m currently working on 
