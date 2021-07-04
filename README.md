@@ -20,9 +20,7 @@
 
 * 💻  I am passionate about Machine Learning, Deep Learning and Open CV.
 
-* 🎨 I am a Frontend Web Developer.
-
-* 🔭 Currently, I am exploring Backend Web Development. 
+* 🎨 I am a MernStack Web Developer.
 
 * 💖 Checkout my Portfolio <a href="https://lavishabhambri.github.io/My-Portfolio/">here</a>.
 
