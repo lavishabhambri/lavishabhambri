@@ -1,17 +1,13 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Lavisha!
 
-<a href="https://www.linkedin.com/in/lavisha-bhambri-630384196/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:bhambrilavisha@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.instagram.com/lavishabhambri/">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>  
-<a href="https://twitter.com/BhambriLavisha">
-    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
+<p align="left">
+<a href="https://twitter.com/bhambrilavisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhambrilavisha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lavisha-bhambri-630384196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavisha-bhambri-630384196" height="30" width="40" /></a>
+<a href="https://fb.com/lavisha.bhambri.79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lavisha.bhambri.79" height="30" width="40" /></a>
+<a href="https://instagram.com/lavishabhambri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavishabhambri" height="30" width="40" /></a>
+<a href="https://medium.com/@bhambrilavisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhambrilavisha" height="30" width="40" /></a>
+</p>
+
 <br />
 <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="400" height="300">
 
