@@ -8,7 +8,6 @@
 <a href="https://medium.com/@bhambrilavisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhambrilavisha" height="30" width="40" /></a>
 </p>
 
-<br />
 <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="400" height="300">
 
 ## About Me 🚀
