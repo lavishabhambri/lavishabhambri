@@ -19,6 +19,8 @@
 
 * 🎓👨‍💻 I’m a coding enthusiast & pursuing my B.Tech in Computer Science & Engineering at IIIT-Hyderabad. 
 
+* 🌟 I got selected as one of the 250 vGHC'2021 scholars globally.
+ 
 * 🌟 I got selected as WE Program Scholar sponsored by Google and Talentsprint.
 
 * 💻  I am passionate about Machine Learning, Deep Learning and Open CV.
