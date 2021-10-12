@@ -22,7 +22,7 @@
 
 * 🎨 I am a MernStack Web Developer.
 
-* 💖 Checkout my Portfolio <a href="https://lavishabhambri.github.io/My-Portfolio/">here</a>.
+* 💖 Checkout my Portfolio <a href="https://lavishabhambri.netlify.app/">here</a>.
 
 * 👭 I'm driven by the will to create an impact and encourage diversity and inclusion in communities. 
 
